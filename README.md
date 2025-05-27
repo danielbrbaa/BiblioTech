@@ -99,6 +99,6 @@ Este projeto está sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Arthur Cabral, Daniel Aragão, Edleson Junior, Gabriel Bandeira, Gabryel Santana, Lucca Lima, Osvaldo Queiroz, José Cleyton e Luiz Cristiano com dedicação e tecnologia de ponta. Entre em contato via [LinkedIn](https://linkedin.com/in/seu-perfil) para sugestões e parcerias.
+Desenvolvido por Arthur Cabral, Daniel Aragão, Edleson Junior, Gabriel Bandeira, Gabryel Santana, Lucca Lima, Osvaldo Queiroz, José Cleyton e Luiz Cristiano com dedicação e tecnologia de ponta. Entre em contato via [LinkedIn](https://linkedin.com/in/brbaadaniel) para sugestões e parcerias.
 
 ---
